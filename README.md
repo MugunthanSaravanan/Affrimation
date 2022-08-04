@@ -1,2 +1,0 @@
-# Affrimation
-Android app
